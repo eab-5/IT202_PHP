@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- Name: 
+- Name: Erica
 - Course: IT202
 - Semester: 
 - Year:
@@ -38,8 +38,8 @@ Use this section to briefly summarize what you completed in each module.
 
 Use this section to describe your course project.
 
-- Project title: 
-- Goal: 
+- Project title: Course Project
+- Goal: Learn Render.
 - Main features: 
 - Current status: 
 
